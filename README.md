@@ -1,9 +1,21 @@
-# AC-anims
-anims Arabic script
+# sqq-anims
 
-This script was not made by me, I just modified it and added the features in it, and the Arabic language was converted
+[Discord](https://discord.gg/PWnxxHcpbr)
 
-If you encounter any problems, do not hesitate to ask for support on my platform
-https://discord.gg/xQM5qtrHH5
+[Original script](https://github.com/BombayV/anims)
 
-It has been carefully modified before !Snack GYG#1953
+# Preview معاينة
+![anims](https://github.com/SNACKGYG/AC-anims/assets/97559522/b08a262c-cd7b-46e9-89fd-0566d89798e1)
+
+
+[video](https://streamable.com/qforls)
+
+### INSTALLATION التثبيت
+
+Just run the script
+
+ensure sqq-anims
+
+
+[installation](#sqq-anims)
+
