@@ -29,5 +29,10 @@ Added movement codes
 - airforce04
 - wtr
 
+The script was last updated 2 years ago
+اخر تحديث للبرنامج النصي منذ عامين
+![image](https://github.com/SNACKGYG/sqq-anims/assets/97559522/c25c7a3b-bf6d-4abd-8b94-94a7447e14c2)
+
+
 [installation](#sqq-anims)
 
