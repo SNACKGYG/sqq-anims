@@ -16,6 +16,18 @@ Just run the script
 
 ensure sqq-anims
 
+### Add-ons الاضافات
+
+All animations published individually have been added here
+تمت أضافة جميع الأنميشن المنشوره بمفردها هنا
+
+Added movement codes
+اكواد الحركات المضافة
+- airforce01
+- airforce02
+- airforce03
+- airforce04
+- wtr
 
 [installation](#sqq-anims)
 
