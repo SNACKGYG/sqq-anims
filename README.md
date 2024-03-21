@@ -8,7 +8,7 @@
 ![anims](https://github.com/SNACKGYG/AC-anims/assets/97559522/b08a262c-cd7b-46e9-89fd-0566d89798e1)
 
 
-[video](https://streamable.com/qforls)
+[video](https://youtu.be/ljPobWewUpM)
 
 ### INSTALLATION التثبيت
 
